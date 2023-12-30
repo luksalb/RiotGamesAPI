@@ -1,0 +1,17 @@
+D:\Projetos\API\RiotGamesAPI\RiotGamesAPI\obj\Debug\net6.0\RiotGamesAPI.csproj.AssemblyReference.cache
+D:\Projetos\API\RiotGamesAPI\RiotGamesAPI\obj\Debug\net6.0\RiotGamesAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\API\RiotGamesAPI\RiotGamesAPI\obj\Debug\net6.0\RiotGamesAPI.AssemblyInfoInputs.cache
+D:\Projetos\API\RiotGamesAPI\RiotGamesAPI\obj\Debug\net6.0\RiotGamesAPI.AssemblyInfo.cs
+D:\Projetos\API\RiotGamesAPI\RiotGamesAPI\obj\Debug\net6.0\RiotGamesAPI.csproj.CoreCompileInputs.cache
+D:\Projetos\API\RiotGamesAPI\RiotGamesAPI\bin\Debug\net6.0\RiotGamesAPI.exe
+D:\Projetos\API\RiotGamesAPI\RiotGamesAPI\bin\Debug\net6.0\RiotGamesAPI.deps.json
+D:\Projetos\API\RiotGamesAPI\RiotGamesAPI\bin\Debug\net6.0\RiotGamesAPI.runtimeconfig.json
+D:\Projetos\API\RiotGamesAPI\RiotGamesAPI\bin\Debug\net6.0\RiotGamesAPI.dll
+D:\Projetos\API\RiotGamesAPI\RiotGamesAPI\bin\Debug\net6.0\RiotGamesAPI.pdb
+D:\Projetos\API\RiotGamesAPI\RiotGamesAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projetos\API\RiotGamesAPI\RiotGamesAPI\obj\Debug\net6.0\RiotGamesAPI.csproj.CopyComplete
+D:\Projetos\API\RiotGamesAPI\RiotGamesAPI\obj\Debug\net6.0\RiotGamesAPI.dll
+D:\Projetos\API\RiotGamesAPI\RiotGamesAPI\obj\Debug\net6.0\refint\RiotGamesAPI.dll
+D:\Projetos\API\RiotGamesAPI\RiotGamesAPI\obj\Debug\net6.0\RiotGamesAPI.pdb
+D:\Projetos\API\RiotGamesAPI\RiotGamesAPI\obj\Debug\net6.0\RiotGamesAPI.genruntimeconfig.cache
+D:\Projetos\API\RiotGamesAPI\RiotGamesAPI\obj\Debug\net6.0\ref\RiotGamesAPI.dll
