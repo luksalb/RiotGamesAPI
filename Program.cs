@@ -8,11 +8,11 @@ class Program
     static async Task Main()
     {
         // Substitua "SUA_CHAVE_DE_API" pela chave de API fornecida pela Riot Games
-        string apiKey = "RGAPI-de65851a-96e1-4730-a7e1-2227428013dd";
-        string summonerName = "Manopla%20Quebrada";
+        string apiKey = "SUA_CHAVE_DE_API";
+        string summonerName = "Nome%20Invocador";
 
         // Substitua "REGIAO" pela região do servidor (por exemplo, "br1" para o servidor brasileiro)
-        string region = "br1";
+        string region = "REGIAO";
 
         // Obtendo o ID do invocador usando o endpoint Summoner API
         SummonerData summonerData = await GetSummonerData(apiKey, summonerName, region);

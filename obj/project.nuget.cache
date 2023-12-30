@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j6jKIL19EW3OF5fiua6ZOiy1dfkDDYHNRBfC0eugIyG5FWGIiL7s4WLgDn4RyLLQwCxgbXZH5oCLmJt5nUgveg==",
+  "dgSpecHash": "2mSulNGUYPdlXu2MWklp+ac3G/fM8kDMRFLKiStmxTe6/yEnQUN/CUx9iP+P63EFESfri53Quk8+urNxzk2gOA==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\API\\RiotGamesAPI\\RiotGamesAPI\\RiotGamesAPI.csproj",
+  "projectFilePath": "D:\\Projetos\\API\\RiotGamesAPI\\RiotGamesAPI\\RiotGamesAPI\\RiotGamesAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucas Silva\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
